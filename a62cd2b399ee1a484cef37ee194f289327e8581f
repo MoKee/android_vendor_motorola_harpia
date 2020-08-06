@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1596690985 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_vendor_motorola_harpia\nnonce 1596690985-AD2D8BAF6A933DCE31F5E7E59B94FB08283AAEF3\n\n0000000000000000000000000000000000000000 a62cd2b399ee1a484cef37ee194f289327e8581f refs/for/mkq-mr1\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCgAdFiEE/Y8fKHw84zhHjhP78iL05i7NJTEFAl8rkikACgkQ8iL05i7N\nJTH5ZwgAqyTpizDkfWmyGPuuGc7W9Qyl7Go2ksixfYh0ffCjbXNUsvoWp+UZuO3O\n8xN7i1ndoF89N7BI+CFlCV1y6CXg+QzNso+lXZlKWWl+jg2/nkFh1u1hKbpdstdz\nupg4dfxFFg2oKUFS30kEfWsEDmEYWWT5VSfAefqNXENIUjRwbucbj2tc4x7KUUu6\n0Fz8FlF9yYI1UMUAYnQkR5Uw0gf3FRnh9PSnwaFuHzY3MCI6dK4uCOAhhjVS0NQH\nClXvgDkbnMKje9ljAR1cAn3JxNNnfVoYQbTxWmLZYB4QUgNMWpfDV+baouIrvM1M\ncqTLhJkx+TfnTuW8J9MY6NB/Py3b9A\u003d\u003d\n\u003dlXsL\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
